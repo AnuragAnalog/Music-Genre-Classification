@@ -1,0 +1,10 @@
+wave
+tqdm
+numpy
+scipy
+pandas
+kaggle
+seaborn
+matplotlib
+tensorflow
+scikit-learn
