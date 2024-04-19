@@ -1,7 +1,6 @@
 wave
 tqdm
 numpy
-scipy
 pandas
 kaggle
 seaborn
